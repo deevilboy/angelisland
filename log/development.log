@@ -38122,3 +38122,1522 @@ Processing by PagesController#index as HTML
 Completed 200 OK in 882ms (Views: 605.3ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-08-12 08:41:04 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (339.9ms)
+  Rendered pages/index.html.erb within layouts/application (343.8ms)
+Completed 200 OK in 764ms (Views: 483.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 08:41:06 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (22.8ms)
+  Rendered pages/index.html.erb within layouts/application (25.5ms)
+Completed 200 OK in 125ms (Views: 122.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:01:24 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (141.8ms)
+  Rendered pages/index.html.erb within layouts/application (146.4ms)
+Completed 200 OK in 299ms (Views: 291.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:02:31 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (24.4ms)
+  Rendered pages/index.html.erb within layouts/application (26.4ms)
+Completed 200 OK in 118ms (Views: 115.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:04:22 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (37.2ms)
+  Rendered pages/index.html.erb within layouts/application (40.3ms)
+Completed 200 OK in 159ms (Views: 156.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:04:39 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.3ms)
+  Rendered pages/index.html.erb within layouts/application (20.9ms)
+Completed 200 OK in 99ms (Views: 97.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:04:56 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (30.4ms)
+  Rendered pages/index.html.erb within layouts/application (35.2ms)
+Completed 200 OK in 167ms (Views: 165.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:06:08 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (33.5ms)
+  Rendered pages/index.html.erb within layouts/application (35.3ms)
+Completed 200 OK in 124ms (Views: 121.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:06:22 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.8ms)
+  Rendered pages/index.html.erb within layouts/application (20.1ms)
+Completed 200 OK in 106ms (Views: 104.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:06:50 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.1ms)
+  Rendered pages/index.html.erb within layouts/application (18.5ms)
+Completed 200 OK in 91ms (Views: 90.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:06:59 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.9ms)
+  Rendered pages/index.html.erb within layouts/application (20.4ms)
+Completed 200 OK in 99ms (Views: 96.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:07:52 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (20.7ms)
+  Rendered pages/index.html.erb within layouts/application (22.2ms)
+Completed 200 OK in 96ms (Views: 95.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:19:09 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (36.4ms)
+  Rendered pages/index.html.erb within layouts/application (38.7ms)
+Completed 200 OK in 134ms (Views: 131.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:21:07 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.1ms)
+  Rendered pages/index.html.erb within layouts/application (17.6ms)
+Completed 200 OK in 96ms (Views: 94.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:23:07 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.4ms)
+  Rendered pages/index.html.erb within layouts/application (19.6ms)
+Completed 200 OK in 90ms (Views: 88.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:23:12 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.1ms)
+  Rendered pages/index.html.erb within layouts/application (19.5ms)
+Completed 200 OK in 99ms (Views: 97.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:23:36 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.9ms)
+  Rendered pages/index.html.erb within layouts/application (21.7ms)
+Completed 200 OK in 104ms (Views: 101.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:23:47 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.2ms)
+  Rendered pages/index.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 89ms (Views: 87.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:24:50 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.2ms)
+  Rendered pages/index.html.erb within layouts/application (19.6ms)
+Completed 200 OK in 99ms (Views: 97.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 09:25:10 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.0ms)
+  Rendered pages/index.html.erb within layouts/application (20.7ms)
+Completed 200 OK in 90ms (Views: 88.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:33:47 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (29.9ms)
+  Rendered pages/index.html.erb within layouts/application (31.9ms)
+Completed 200 OK in 124ms (Views: 121.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:36:09 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.7ms)
+  Rendered pages/index.html.erb within layouts/application (18.2ms)
+Completed 200 OK in 92ms (Views: 90.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:42:28 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (27.7ms)
+  Rendered pages/index.html.erb within layouts/application (29.9ms)
+Completed 200 OK in 125ms (Views: 123.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:44:04 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.2ms)
+  Rendered pages/index.html.erb within layouts/application (18.7ms)
+Completed 200 OK in 93ms (Views: 90.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:44:30 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.0ms)
+  Rendered pages/index.html.erb within layouts/application (18.5ms)
+Completed 200 OK in 120ms (Views: 118.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:44:58 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.2ms)
+  Rendered pages/index.html.erb within layouts/application (19.9ms)
+Completed 200 OK in 102ms (Views: 100.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:45:22 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (15.3ms)
+  Rendered pages/index.html.erb within layouts/application (16.8ms)
+Completed 200 OK in 87ms (Views: 84.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:45:32 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.8ms)
+  Rendered pages/index.html.erb within layouts/application (20.2ms)
+Completed 200 OK in 99ms (Views: 97.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:45:42 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.2ms)
+  Rendered pages/index.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 114ms (Views: 112.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:45:47 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.3ms)
+  Rendered pages/index.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 95ms (Views: 92.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:46:15 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (21.5ms)
+  Rendered pages/index.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 92ms (Views: 90.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:46:41 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.5ms)
+  Rendered pages/index.html.erb within layouts/application (18.9ms)
+Completed 200 OK in 96ms (Views: 94.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:46:52 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.4ms)
+  Rendered pages/index.html.erb within layouts/application (18.9ms)
+Completed 200 OK in 99ms (Views: 97.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:47:19 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.0ms)
+  Rendered pages/index.html.erb within layouts/application (18.7ms)
+Completed 200 OK in 94ms (Views: 92.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:48:05 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (24.7ms)
+  Rendered pages/index.html.erb within layouts/application (26.4ms)
+Completed 200 OK in 92ms (Views: 90.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:51:54 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (28.3ms)
+  Rendered pages/index.html.erb within layouts/application (30.0ms)
+Completed 200 OK in 122ms (Views: 119.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:52:09 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.5ms)
+  Rendered pages/index.html.erb within layouts/application (19.1ms)
+Completed 200 OK in 97ms (Views: 95.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:52:40 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.1ms)
+  Rendered pages/index.html.erb within layouts/application (20.4ms)
+Completed 200 OK in 100ms (Views: 98.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:53:10 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.4ms)
+  Rendered pages/index.html.erb within layouts/application (18.3ms)
+Completed 200 OK in 94ms (Views: 91.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:53:23 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (24.7ms)
+  Rendered pages/index.html.erb within layouts/application (26.2ms)
+Completed 200 OK in 101ms (Views: 99.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:53:36 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.0ms)
+  Rendered pages/index.html.erb within layouts/application (20.4ms)
+Completed 200 OK in 102ms (Views: 100.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:54:16 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.0ms)
+  Rendered pages/index.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 93ms (Views: 91.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:54:24 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.0ms)
+  Rendered pages/index.html.erb within layouts/application (17.5ms)
+Completed 200 OK in 99ms (Views: 97.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:55:28 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (27.1ms)
+  Rendered pages/index.html.erb within layouts/application (28.9ms)
+Completed 200 OK in 120ms (Views: 118.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:55:46 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.2ms)
+  Rendered pages/index.html.erb within layouts/application (20.8ms)
+Completed 200 OK in 103ms (Views: 101.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:55:55 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (22.8ms)
+  Rendered pages/index.html.erb within layouts/application (24.6ms)
+Completed 200 OK in 169ms (Views: 166.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:56:36 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.1ms)
+  Rendered pages/index.html.erb within layouts/application (17.6ms)
+Completed 200 OK in 98ms (Views: 96.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:56:52 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (24.0ms)
+  Rendered pages/index.html.erb within layouts/application (25.5ms)
+Completed 200 OK in 118ms (Views: 116.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:59:08 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (26.4ms)
+  Rendered pages/index.html.erb within layouts/application (28.1ms)
+Completed 200 OK in 116ms (Views: 113.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 11:59:23 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.5ms)
+  Rendered pages/index.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 98ms (Views: 96.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:00:11 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.5ms)
+  Rendered pages/index.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 90ms (Views: 87.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:00:58 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (23.5ms)
+  Rendered pages/index.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 104ms (Views: 101.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:01:04 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.9ms)
+  Rendered pages/index.html.erb within layouts/application (21.5ms)
+Completed 200 OK in 103ms (Views: 101.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:01:43 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.6ms)
+  Rendered pages/index.html.erb within layouts/application (18.9ms)
+Completed 200 OK in 89ms (Views: 88.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:01:58 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.5ms)
+  Rendered pages/index.html.erb within layouts/application (17.9ms)
+Completed 200 OK in 93ms (Views: 91.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:08:55 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (31.1ms)
+  Rendered pages/index.html.erb within layouts/application (33.8ms)
+Completed 200 OK in 136ms (Views: 131.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:09:27 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.9ms)
+  Rendered pages/index.html.erb within layouts/application (20.7ms)
+Completed 200 OK in 115ms (Views: 111.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:09:56 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (27.0ms)
+  Rendered pages/index.html.erb within layouts/application (29.3ms)
+Completed 200 OK in 122ms (Views: 118.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:10:13 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.7ms)
+  Rendered pages/index.html.erb within layouts/application (21.3ms)
+Completed 200 OK in 96ms (Views: 94.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:12:44 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (22.2ms)
+  Rendered pages/index.html.erb within layouts/application (24.0ms)
+Completed 500 Internal Server Error in 30ms
+
+
+  
+ActionView::Template::Error (The asset "images/global_temp.png" is not present in the asset pipeline.):
+    341:           </h2>
+    342: 
+    343:           <p>
+    344:             <a href="#"><img alt="" src="<%= image_path('images/global_temp.png') %>">
+    345:           </p>
+    346:         </div>
+    347: 
+  
+app/views/layouts/_bell_theme_partial.erb:344:in `_app_views_layouts__bell_theme_partial_erb__2219406444862451950_70196021299460'
+app/views/pages/index.html.erb:1:in `_app_views_pages_index_html_erb__2946465144681165020_70196012945400'
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:14:35 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (11.4ms)
+  Rendered pages/index.html.erb within layouts/application (14.3ms)
+Completed 500 Internal Server Error in 20ms
+
+
+  
+ActionView::Template::Error (The asset "images/global_temp.png" is not present in the asset pipeline.):
+    341:           </h2>
+    342: 
+    343:           <p>
+    344:             <a href="#"><img alt="" src="<%= image_path('images/global_temp.png') %>">
+    345:           </p>
+    346:         </div>
+    347: 
+  
+app/views/layouts/_bell_theme_partial.erb:344:in `_app_views_layouts__bell_theme_partial_erb__2219406444862451950_70196044890960'
+app/views/pages/index.html.erb:1:in `_app_views_pages_index_html_erb__2946465144681165020_70196044989440'
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:14:37 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (8.2ms)
+  Rendered pages/index.html.erb within layouts/application (9.8ms)
+Completed 500 Internal Server Error in 15ms
+
+
+  
+ActionView::Template::Error (The asset "images/global_temp.png" is not present in the asset pipeline.):
+    341:           </h2>
+    342: 
+    343:           <p>
+    344:             <a href="#"><img alt="" src="<%= image_path('images/global_temp.png') %>">
+    345:           </p>
+    346:         </div>
+    347: 
+  
+app/views/layouts/_bell_theme_partial.erb:344:in `_app_views_layouts__bell_theme_partial_erb__2219406444862451950_70196028901400'
+app/views/pages/index.html.erb:1:in `_app_views_pages_index_html_erb__2946465144681165020_70196029102960'
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:15:27 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (4997.2ms)
+  Rendered pages/index.html.erb within layouts/application (4998.7ms)
+Completed 200 OK in 5162ms (Views: 5159.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:16:22 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (28.4ms)
+  Rendered pages/index.html.erb within layouts/application (30.5ms)
+Completed 200 OK in 110ms (Views: 108.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:18:40 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (26.8ms)
+  Rendered pages/index.html.erb within layouts/application (28.5ms)
+Completed 200 OK in 115ms (Views: 113.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:18:45 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (35.8ms)
+  Rendered pages/index.html.erb within layouts/application (37.6ms)
+Completed 200 OK in 134ms (Views: 132.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:20:21 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (38.5ms)
+  Rendered pages/index.html.erb within layouts/application (40.1ms)
+Completed 200 OK in 134ms (Views: 132.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:22:31 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (36.4ms)
+  Rendered pages/index.html.erb within layouts/application (38.5ms)
+Completed 200 OK in 129ms (Views: 126.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:22:34 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.4ms)
+  Rendered pages/index.html.erb within layouts/application (21.6ms)
+Completed 200 OK in 97ms (Views: 96.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:22:35 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.7ms)
+  Rendered pages/index.html.erb within layouts/application (21.1ms)
+Completed 200 OK in 100ms (Views: 98.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:22:40 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.0ms)
+  Rendered pages/index.html.erb within layouts/application (18.6ms)
+Completed 200 OK in 99ms (Views: 96.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:24:10 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (3927.6ms)
+  Rendered pages/index.html.erb within layouts/application (3929.7ms)
+Completed 200 OK in 4126ms (Views: 4123.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:24:19 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.1ms)
+  Rendered pages/index.html.erb within layouts/application (20.3ms)
+Completed 200 OK in 92ms (Views: 90.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:26:39 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (22.2ms)
+  Rendered pages/index.html.erb within layouts/application (23.7ms)
+Completed 200 OK in 95ms (Views: 93.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:27:00 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.5ms)
+  Rendered pages/index.html.erb within layouts/application (20.9ms)
+Completed 200 OK in 102ms (Views: 100.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:27:12 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (21.4ms)
+  Rendered pages/index.html.erb within layouts/application (23.1ms)
+Completed 200 OK in 94ms (Views: 91.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:27:19 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.9ms)
+  Rendered pages/index.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 91ms (Views: 89.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:27:24 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.6ms)
+  Rendered pages/index.html.erb within layouts/application (21.1ms)
+Completed 200 OK in 95ms (Views: 92.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:27:30 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (21.4ms)
+  Rendered pages/index.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 96ms (Views: 94.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:27:32 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (21.1ms)
+  Rendered pages/index.html.erb within layouts/application (22.4ms)
+Completed 200 OK in 90ms (Views: 88.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:28:38 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.0ms)
+  Rendered pages/index.html.erb within layouts/application (20.6ms)
+Completed 500 Internal Server Error in 27ms
+
+
+  
+ActionView::Template::Error (The asset "global_temp.jpg" is not present in the asset pipeline.):
+    361: 
+    362:             <div class="col-sm-4 col-xs-6">
+    363:               <div class="card card-block">
+    364:                 <a href="#"><img alt="" class="team-img" src="<%= image_path('global_temp.jpg') %>">
+    365:                 <div class="card-title-wrap">
+    366:                   <span class="card-title">Mike Lin</span> <span class="card-text">Head of Technology </span>
+    367:                 </div>
+  
+app/views/layouts/_bell_theme_partial.erb:364:in `_app_views_layouts__bell_theme_partial_erb__2219406444862451950_70196086136680'
+app/views/pages/index.html.erb:1:in `_app_views_pages_index_html_erb__2946465144681165020_70196086160540'
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:29:13 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (31.9ms)
+  Rendered pages/index.html.erb within layouts/application (33.4ms)
+Completed 200 OK in 130ms (Views: 128.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:30:14 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (9.1ms)
+  Rendered pages/index.html.erb within layouts/application (10.8ms)
+Completed 500 Internal Server Error in 16ms
+
+
+  
+ActionView::Template::Error (The asset "artic_ice.jpg" is not present in the asset pipeline.):
+    370: 
+    371:             <div class="col-sm-4 col-xs-6">
+    372:               <div class="card card-block">
+    373:                 <a href="#"><img alt="" class="team-img" src="<%= image_path('artic_ice.jpg') %>">
+    374:                 <div class="card-title-wrap">
+    375:                   <span class="card-title">Victor Liu</span> <span class="card-text">BTC Investment Genius <br>(BTC IQ: 175+/<font color="red">Biz IQ: -999</font>) </span>
+    376:                 </div>
+  
+app/views/layouts/_bell_theme_partial.erb:373:in `_app_views_layouts__bell_theme_partial_erb__2219406444862451950_70196068189520'
+app/views/pages/index.html.erb:1:in `_app_views_pages_index_html_erb__2946465144681165020_70196089848400'
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:30:21 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.9ms)
+  Rendered pages/index.html.erb within layouts/application (21.4ms)
+Completed 200 OK in 97ms (Views: 95.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:31:20 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.6ms)
+  Rendered pages/index.html.erb within layouts/application (20.1ms)
+Completed 200 OK in 101ms (Views: 99.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:31:36 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.8ms)
+  Rendered pages/index.html.erb within layouts/application (21.4ms)
+Completed 200 OK in 98ms (Views: 96.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:31:38 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.5ms)
+  Rendered pages/index.html.erb within layouts/application (21.6ms)
+Completed 200 OK in 92ms (Views: 90.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:31:40 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (28.9ms)
+  Rendered pages/index.html.erb within layouts/application (30.3ms)
+Completed 200 OK in 108ms (Views: 106.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:31:51 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (30.3ms)
+  Rendered pages/index.html.erb within layouts/application (32.2ms)
+Completed 200 OK in 101ms (Views: 99.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:31:53 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.5ms)
+  Rendered pages/index.html.erb within layouts/application (18.8ms)
+Completed 200 OK in 93ms (Views: 91.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:32:52 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (22.3ms)
+  Rendered pages/index.html.erb within layouts/application (23.6ms)
+Completed 200 OK in 93ms (Views: 91.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:33:18 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (22.1ms)
+  Rendered pages/index.html.erb within layouts/application (23.6ms)
+Completed 200 OK in 110ms (Views: 108.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:34:10 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.6ms)
+  Rendered pages/index.html.erb within layouts/application (21.2ms)
+Completed 200 OK in 97ms (Views: 95.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:34:13 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (20.7ms)
+  Rendered pages/index.html.erb within layouts/application (22.7ms)
+Completed 200 OK in 90ms (Views: 88.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:34:57 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.6ms)
+  Rendered pages/index.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 89ms (Views: 86.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:38:31 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (27.7ms)
+  Rendered pages/index.html.erb within layouts/application (29.4ms)
+Completed 500 Internal Server Error in 35ms
+
+
+  
+ActionView::Template::Error (The asset "artic_ice.png" is not present in the asset pipeline.):
+    351: 
+    352:             <div class="col-sm-4 col-xs-6">
+    353:               <div class="card card-block">
+    354:                 <a href="#"><img alt="" class="team-img" src="<%= image_path('artic_ice.png') %>">
+    355:               </div>
+    356:             </div>
+    357: 
+  
+app/views/layouts/_bell_theme_partial.erb:354:in `_app_views_layouts__bell_theme_partial_erb__2219406444862451950_70196052446860'
+app/views/pages/index.html.erb:1:in `_app_views_pages_index_html_erb__2946465144681165020_70196044746080'
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:38:53 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (10.9ms)
+  Rendered pages/index.html.erb within layouts/application (12.2ms)
+Completed 500 Internal Server Error in 17ms
+
+
+  
+ActionView::Template::Error (The asset "artic_ice.png" is not present in the asset pipeline.):
+    351: 
+    352:             <!-- <div class="col-sm-4 col-xs-6">
+    353:               <div class="card card-block">
+    354:                 <a href="#"><img alt="" class="team-img" src="<%= image_path('artic_ice.png') %>">
+    355:               </div>
+    356:             </div>
+    357:  -->
+  
+app/views/layouts/_bell_theme_partial.erb:354:in `_app_views_layouts__bell_theme_partial_erb__2219406444862451950_70196086941620'
+app/views/pages/index.html.erb:1:in `_app_views_pages_index_html_erb__2946465144681165020_70196083115160'
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:39:20 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (12.1ms)
+  Rendered pages/index.html.erb within layouts/application (13.7ms)
+Completed 500 Internal Server Error in 19ms
+
+
+  
+ActionView::Template::Error (The asset "artic_ice.png" is not present in the asset pipeline.):
+    375:         </div>
+    376: 
+    377:         <div class="col-lg-3 col-sm-12 text-lg-right text-center">
+    378:             <a href="#"><img alt="" src="<%= image_path('artic_ice.png') %>">
+    379:         </div>
+    380: 
+    381:         <div class="col-lg-3 col-sm-12 text-lg-right text-center">
+  
+app/views/layouts/_bell_theme_partial.erb:378:in `_app_views_layouts__bell_theme_partial_erb__2219406444862451950_70196069358160'
+app/views/pages/index.html.erb:1:in `_app_views_pages_index_html_erb__2946465144681165020_70196069518860'
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:39:31 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (32.6ms)
+  Rendered pages/index.html.erb within layouts/application (34.2ms)
+Completed 200 OK in 3754ms (Views: 3752.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:40:33 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (37.2ms)
+  Rendered pages/index.html.erb within layouts/application (39.6ms)
+Completed 200 OK in 126ms (Views: 123.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:41:19 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (33.3ms)
+  Rendered pages/index.html.erb within layouts/application (37.3ms)
+Completed 200 OK in 129ms (Views: 125.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:41:42 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (33.8ms)
+  Rendered pages/index.html.erb within layouts/application (36.0ms)
+Completed 200 OK in 136ms (Views: 134.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:41:46 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (36.6ms)
+  Rendered pages/index.html.erb within layouts/application (38.5ms)
+Completed 200 OK in 166ms (Views: 163.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:42:28 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (24.7ms)
+  Rendered pages/index.html.erb within layouts/application (26.2ms)
+Completed 200 OK in 119ms (Views: 116.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:42:51 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (20.9ms)
+  Rendered pages/index.html.erb within layouts/application (22.3ms)
+Completed 200 OK in 100ms (Views: 98.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:43:26 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.3ms)
+  Rendered pages/index.html.erb within layouts/application (19.7ms)
+Completed 200 OK in 102ms (Views: 92.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:43:42 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (21.2ms)
+  Rendered pages/index.html.erb within layouts/application (22.6ms)
+Completed 200 OK in 98ms (Views: 96.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:43:55 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (18.8ms)
+  Rendered pages/index.html.erb within layouts/application (20.6ms)
+Completed 200 OK in 91ms (Views: 88.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 12:44:20 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (22.1ms)
+  Rendered pages/index.html.erb within layouts/application (24.4ms)
+Completed 200 OK in 110ms (Views: 109.0ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:44:21 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (32.8ms)
+  Rendered pages/index.html.erb within layouts/application (34.6ms)
+Completed 200 OK in 118ms (Views: 115.2ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:45:04 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (17.5ms)
+  Rendered pages/index.html.erb within layouts/application (18.9ms)
+Completed 200 OK in 92ms (Views: 90.4ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:45:16 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (26.8ms)
+  Rendered pages/index.html.erb within layouts/application (28.4ms)
+Completed 200 OK in 117ms (Views: 115.4ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:53:23 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (43.5ms)
+  Rendered pages/index.html.erb within layouts/application (45.5ms)
+Completed 200 OK in 143ms (Views: 140.9ms)
+
+
+Started GET "/la.jpg" for 127.0.0.1 at 2017-08-12 12:53:24 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/la.jpg"):
+  
+actionpack (5.1.3) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.3) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.3) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.3) lib/rails/engine.rb:522:in `call'
+puma (3.9.1) lib/puma/configuration.rb:224:in `call'
+puma (3.9.1) lib/puma/server.rb:602:in `handle_request'
+puma (3.9.1) lib/puma/server.rb:435:in `process_client'
+puma (3.9.1) lib/puma/server.rb:299:in `block in run'
+puma (3.9.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/chicago.jpg" for 127.0.0.1 at 2017-08-12 12:53:24 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/chicago.jpg"):
+  
+actionpack (5.1.3) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.3) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.3) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.3) lib/rails/engine.rb:522:in `call'
+puma (3.9.1) lib/puma/configuration.rb:224:in `call'
+puma (3.9.1) lib/puma/server.rb:602:in `handle_request'
+puma (3.9.1) lib/puma/server.rb:435:in `process_client'
+puma (3.9.1) lib/puma/server.rb:299:in `block in run'
+puma (3.9.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/ny.jpg" for 127.0.0.1 at 2017-08-12 12:53:24 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/ny.jpg"):
+  
+actionpack (5.1.3) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.3) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.3) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.3) lib/rails/engine.rb:522:in `call'
+puma (3.9.1) lib/puma/configuration.rb:224:in `call'
+puma (3.9.1) lib/puma/server.rb:602:in `handle_request'
+puma (3.9.1) lib/puma/server.rb:435:in `process_client'
+puma (3.9.1) lib/puma/server.rb:299:in `block in run'
+puma (3.9.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:54:42 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (30.3ms)
+  Rendered pages/index.html.erb within layouts/application (31.8ms)
+Completed 200 OK in 115ms (Views: 113.6ms)
+
+
+Started GET "/ny.jpg" for 127.0.0.1 at 2017-08-12 12:54:42 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/ny.jpg"):
+  
+actionpack (5.1.3) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.3) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.3) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.3) lib/rails/engine.rb:522:in `call'
+puma (3.9.1) lib/puma/configuration.rb:224:in `call'
+puma (3.9.1) lib/puma/server.rb:602:in `handle_request'
+puma (3.9.1) lib/puma/server.rb:435:in `process_client'
+puma (3.9.1) lib/puma/server.rb:299:in `block in run'
+puma (3.9.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:54:54 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (21.5ms)
+  Rendered pages/index.html.erb within layouts/application (23.1ms)
+Completed 200 OK in 117ms (Views: 115.6ms)
+
+
+Started GET "/ny.jpg" for 127.0.0.1 at 2017-08-12 12:54:54 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/ny.jpg"):
+  
+actionpack (5.1.3) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.3) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.3) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.3) lib/rails/engine.rb:522:in `call'
+puma (3.9.1) lib/puma/configuration.rb:224:in `call'
+puma (3.9.1) lib/puma/server.rb:602:in `handle_request'
+puma (3.9.1) lib/puma/server.rb:435:in `process_client'
+puma (3.9.1) lib/puma/server.rb:299:in `block in run'
+puma (3.9.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:56:19 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (34.3ms)
+  Rendered pages/index.html.erb within layouts/application (37.0ms)
+Completed 200 OK in 135ms (Views: 132.8ms)
+
+
+Started GET "/ny.jpg" for 127.0.0.1 at 2017-08-12 12:56:19 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/ny.jpg"):
+  
+actionpack (5.1.3) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.3) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.3) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.3) lib/rails/engine.rb:522:in `call'
+puma (3.9.1) lib/puma/configuration.rb:224:in `call'
+puma (3.9.1) lib/puma/server.rb:602:in `handle_request'
+puma (3.9.1) lib/puma/server.rb:435:in `process_client'
+puma (3.9.1) lib/puma/server.rb:299:in `block in run'
+puma (3.9.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:56:23 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.9ms)
+  Rendered pages/index.html.erb within layouts/application (18.5ms)
+Completed 200 OK in 94ms (Views: 92.6ms)
+
+
+Started GET "/ny.jpg" for 127.0.0.1 at 2017-08-12 12:56:23 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/ny.jpg"):
+  
+actionpack (5.1.3) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.3) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.3) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.3) lib/rails/engine.rb:522:in `call'
+puma (3.9.1) lib/puma/configuration.rb:224:in `call'
+puma (3.9.1) lib/puma/server.rb:602:in `handle_request'
+puma (3.9.1) lib/puma/server.rb:435:in `process_client'
+puma (3.9.1) lib/puma/server.rb:299:in `block in run'
+puma (3.9.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:56:29 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (28.6ms)
+  Rendered pages/index.html.erb within layouts/application (30.5ms)
+Completed 200 OK in 106ms (Views: 104.6ms)
+
+
+Started GET "/ny.jpg" for 127.0.0.1 at 2017-08-12 12:56:29 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/ny.jpg"):
+  
+actionpack (5.1.3) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.3) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.3) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.3) lib/rails/engine.rb:522:in `call'
+puma (3.9.1) lib/puma/configuration.rb:224:in `call'
+puma (3.9.1) lib/puma/server.rb:602:in `handle_request'
+puma (3.9.1) lib/puma/server.rb:435:in `process_client'
+puma (3.9.1) lib/puma/server.rb:299:in `block in run'
+puma (3.9.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:56:53 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (21.4ms)
+  Rendered pages/index.html.erb within layouts/application (23.1ms)
+Completed 200 OK in 100ms (Views: 97.0ms)
+
+
+Started GET "/ny.jpg" for 127.0.0.1 at 2017-08-12 12:56:53 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/ny.jpg"):
+  
+actionpack (5.1.3) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.3) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.3) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.3) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.3) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.3) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.3) lib/rails/engine.rb:522:in `call'
+puma (3.9.1) lib/puma/configuration.rb:224:in `call'
+puma (3.9.1) lib/puma/server.rb:602:in `handle_request'
+puma (3.9.1) lib/puma/server.rb:435:in `process_client'
+puma (3.9.1) lib/puma/server.rb:299:in `block in run'
+puma (3.9.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 12:57:25 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (20.2ms)
+  Rendered pages/index.html.erb within layouts/application (22.8ms)
+Completed 200 OK in 110ms (Views: 108.4ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 13:03:28 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (34.2ms)
+  Rendered pages/index.html.erb within layouts/application (35.9ms)
+Completed 200 OK in 140ms (Views: 137.6ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 13:03:57 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (22.8ms)
+  Rendered pages/index.html.erb within layouts/application (25.2ms)
+Completed 200 OK in 97ms (Views: 95.4ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 13:06:44 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (32.2ms)
+  Rendered pages/index.html.erb within layouts/application (34.0ms)
+Completed 200 OK in 139ms (Views: 136.3ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 13:07:07 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (23.9ms)
+  Rendered pages/index.html.erb within layouts/application (25.7ms)
+Completed 200 OK in 98ms (Views: 96.5ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 13:07:17 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (23.0ms)
+  Rendered pages/index.html.erb within layouts/application (24.8ms)
+Completed 200 OK in 129ms (Views: 127.1ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 13:08:43 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.8ms)
+  Rendered pages/index.html.erb within layouts/application (21.6ms)
+Completed 200 OK in 109ms (Views: 107.0ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 13:08:57 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.8ms)
+  Rendered pages/index.html.erb within layouts/application (21.9ms)
+Completed 200 OK in 99ms (Views: 97.9ms)
+
+
+Started GET "/index.html" for 127.0.0.1 at 2017-08-12 13:08:59 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (25.0ms)
+  Rendered pages/index.html.erb within layouts/application (27.7ms)
+Completed 200 OK in 114ms (Views: 111.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:09:01 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (27.3ms)
+  Rendered pages/index.html.erb within layouts/application (33.9ms)
+Completed 200 OK in 129ms (Views: 127.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:09:21 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.5ms)
+  Rendered pages/index.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 92ms (Views: 90.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:09:49 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.5ms)
+  Rendered pages/index.html.erb within layouts/application (22.2ms)
+Completed 200 OK in 107ms (Views: 104.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:09:51 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (27.1ms)
+  Rendered pages/index.html.erb within layouts/application (28.6ms)
+Completed 200 OK in 100ms (Views: 98.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:10:29 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (24.5ms)
+  Rendered pages/index.html.erb within layouts/application (26.1ms)
+Completed 200 OK in 111ms (Views: 109.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:11:08 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (16.5ms)
+  Rendered pages/index.html.erb within layouts/application (18.3ms)
+Completed 200 OK in 90ms (Views: 88.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:11:09 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (25.0ms)
+  Rendered pages/index.html.erb within layouts/application (26.6ms)
+Completed 200 OK in 114ms (Views: 112.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:11:11 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (24.2ms)
+  Rendered pages/index.html.erb within layouts/application (26.6ms)
+Completed 200 OK in 118ms (Views: 116.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:11:53 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (31.4ms)
+  Rendered pages/index.html.erb within layouts/application (33.4ms)
+Completed 200 OK in 105ms (Views: 103.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:11:55 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (19.7ms)
+  Rendered pages/index.html.erb within layouts/application (21.4ms)
+Completed 200 OK in 97ms (Views: 95.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:12:12 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (29.5ms)
+  Rendered pages/index.html.erb within layouts/application (30.9ms)
+Completed 200 OK in 116ms (Views: 114.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:12:17 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (34.0ms)
+  Rendered pages/index.html.erb within layouts/application (35.7ms)
+Completed 200 OK in 137ms (Views: 135.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:12:17 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (36.1ms)
+  Rendered pages/index.html.erb within layouts/application (37.8ms)
+Completed 200 OK in 158ms (Views: 155.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:13:49 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (26.1ms)
+  Rendered pages/index.html.erb within layouts/application (28.1ms)
+Completed 200 OK in 128ms (Views: 126.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-12 13:14:57 -0700
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered layouts/_bell_theme_partial.erb (25.3ms)
+  Rendered pages/index.html.erb within layouts/application (28.2ms)
+Completed 200 OK in 131ms (Views: 129.5ms)
+
+
