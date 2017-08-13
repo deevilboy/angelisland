@@ -9,6 +9,9 @@ Rails.application.routes.draw do
 	match '/about' => 'pages#about', via: :get
 	match '/contact' => 'pages#contact', via: :get
 	match '/index' => 'pages#index', via: :get
+	match '/panel1' => 'pages#index', via: :get
+	match '/panel2' => 'pages#index', via: :get
+	match '/panel3' => 'pages#index', via: :get
 
 ###############
   get 'pages/about'

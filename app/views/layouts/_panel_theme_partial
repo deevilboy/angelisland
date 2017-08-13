@@ -187,9 +187,9 @@
 
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#about" data-slide-to="0" class="active"></li>
+        <li data-target="#features" data-slide-to="1"></li>
+        <li data-target="#team" data-slide-to="2"></li>
       </ol>
 
       <div class="carousel-inner">
@@ -199,7 +199,7 @@
         </div>
 
         <div class="carousel-item">
-          <a class="d-block w-100" href="https://www.zerohedge.com">
+          <a class="d-block w-100" href="http://www.zerohedge.com">
             <img class="d-block w-100" src="<%= image_path('wall2_intro.png') %>" alt="Second slide">
           </a>
         </div>
