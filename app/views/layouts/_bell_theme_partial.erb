@@ -1,3 +1,5 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
   <!-- Page Content
   ================================================== -->
   <!-- Hero -->
@@ -16,7 +18,7 @@
         </h1>
 
         <p class="tagline">
-          Our Vision: To blah blah...visually inform the world about Global Climate Change 
+          Our Vision: To visually inform the world about Global Climate Change 
         </p>
         <a class="btn btn-full" href="#about">Learn More</a>
       </div>
@@ -38,7 +40,7 @@
     <nav id="nav-menu-container">
       <ul class="nav-menu">
         <li><a href="#about">Our Vision</a></li>
-        <li><a href="#features">Panels</a></li>
+        <li><a href="#features">Info Panels</a></li>
         <!-- <li><a href="#portfolio">Portfolio</a></li> -->
         <li><a href="#team">About Us</a></li>
         
@@ -163,28 +165,62 @@
 
 
 
-
+<%#= image_path('wall1_intro.png') %>
 
   <!-- Features -->
 
-  <section class="features" id="features">
+<section class="features" id="features">
     
   <div class="container text-center">
     <h2>
-      Panels
+      Info Panels
     </h2>
 
     
-  </div>
+    <!-- Lots of Bootstrap 4 Carousel Problems
+    Prob A) Image aspect ratio not work (image kept stretching)
+    Sol A) Added custom CSS code in application.scss
+           CSS Code=> CSS => height: 68vw; /* play with this */
+    Prob B) Arrow buttons not working (sliding not working)
+    Sol B) Had to add in the < script > call to jquery below: -->
+     
 
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#about" data-slide-to="0" class="active"></li>
+        <li data-target="#features" data-slide-to="1"></li>
+        <li data-target="#team" data-slide-to="2"></li>
+      </ol>
 
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <a class="d-block w-100" href="https://www.google.com"><img  src="<%= image_path('wall1_intro.png') %>" alt="First slide"></a>
 
+        </div>
 
+        <div class="carousel-item">
+          <a class="d-block w-100" href="http://www.zerohedge.com">
+            <img class="d-block w-100" src="<%= image_path('wall2_intro.png') %>" alt="Second slide">
+          </a>
+        </div>
 
+        <div class="carousel-item">
+          <a class="d-block w-100" href="https://www.si.com">
+            <img class="d-block w-100" src="<%= image_path('wall3_intro.png') %>" alt="Third slide">
+          </a>
+        </div>
+      </div>
 
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
 
-
-
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
 
 
       <!-- <div class="row">
@@ -329,10 +365,12 @@
           <h2 style="text-align: center">
             About Us
           </h2>
+        </div>
+      </div>
 
       
 
-        </div>
+    </div>
   </section>
   <!-- /Call to Action -->
 
@@ -710,7 +748,7 @@
               </li>
 
               <li class="list-inline-item">
-                <a href="#features">Panels</a>
+                <a href="#features">Info Panels</a>
               </li>
 
 <!--               <li class="list-inline-item">

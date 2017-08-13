@@ -26,9 +26,5 @@
 //= require lib/parallax/parallax
 //= require lib/lockfixed/lockfixed.min
 //= require js/custom
-//= contactform/contactform
-
-	
-    
-    
-    
+//= require contactform/contactform
+//= require carouselfix_mikel_custom
